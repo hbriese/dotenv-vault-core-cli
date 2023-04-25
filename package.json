@@ -1,0 +1,17 @@
+{
+  "name": "dotenv-vault-core-cli",
+  "author": "hbriese",
+  "repository": "hbriese/dotenv-vault-core-cli",
+  "license": "MIT",
+  "main": "main.js",
+  "bin": {
+    "dotenv-vault-core": "main.js"
+  },
+  "dependencies": {
+    "cross-spawn": "^7.0.3",
+    "dotenv-expand": "^10.0.0",
+    "dotenv-vault-core": "^0.7.0",
+    "minimist": "^1.2.8",
+    "path": "^0.12.7"
+  }
+}
