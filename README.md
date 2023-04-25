@@ -1,6 +1,9 @@
 # dotenv-vault-core-cli
 
-A fork of [dotenv-cli](https://github.com/entropitor/dotenv-cli) with [dotenv-vault-core](https://github.com/dotenv-org/dotenv-vault-core) support
+A fork of [dotenv-cli](https://github.com/entropitor/dotenv-cli) with [dotenv-vault-core](https://github.com/dotenv-org/dotenv-vault-core) support.
+
+The sooner this project is replaced by a PR to [dotenv-vault](https://github.com/dotenv-org/dotenv-vault) the better.
+[Track the issue](https://github.com/dotenv-org/dotenv-vault/issues/174)
 
 ## Installation
 
