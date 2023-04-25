@@ -2,8 +2,25 @@
 
 A fork of [dotenv-cli](https://github.com/entropitor/dotenv-cli) with [dotenv-vault-core](https://github.com/dotenv-org/dotenv-vault-core) support
 
+## Installation
 
-### Usage
+NPM
+```bash
+$ npm install dotenv-vault-core-cli
+```
+
+Yarn
+```bash
+$ yarn add dotenv-vault-core-cli
+```
+
+pnpm
+```bash
+pnpm add dotenv-vault-core-cli
+```
+
+
+## Usage
 
 ```bash
 $ npx dotenv-vault-core-cli <command with arguments>
