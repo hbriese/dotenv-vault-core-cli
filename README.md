@@ -5,6 +5,14 @@ A fork of [dotenv-cli](https://github.com/entropitor/dotenv-cli) with [dotenv-va
 The sooner this project is replaced by a PR to [dotenv-vault](https://github.com/dotenv-org/dotenv-vault) the better.
 [Track the issue](https://github.com/dotenv-org/dotenv-vault/issues/174)
 
+## Deprecation notice
+
+**This library has been deprecated.**
+
+`dotenv-vault-core` has been merged into `dotenv` ([deprecation notice](https://github.com/dotenv-org/dotenv-vault-core)).
+
+Please use `dotenv-cli` instead now with `dotenv` >= 16.1.0.
+
 ## Installation
 
 NPM

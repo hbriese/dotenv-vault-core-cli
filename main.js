@@ -7,6 +7,8 @@ var argv = require('minimist')(process.argv.slice(2));
 var dotenv = require('dotenv');
 var dotenvExpand = require('dotenv-expand').expand;
 
+console.warn('dotenv-vault-core-cli is deprecated (dotenv-vault-core has been merged into dotenv). Please use dotenv-cli now instead with dotenv >= 16.1.0');
+
 function printHelp() {
   console.log(
     [
